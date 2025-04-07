@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @disha689
-- 👀 I’m interested in c++.
-- 🌱 I’m currently learning C++
-- 💞️ I’m looking for internsghip
+- 👀 I’m interested in c++,pythone ,sql,oops,webd
+- 🌱 I’m currently learning data structure 
+-  I’m looking for internsghip
 - 📫 my contact:8118840713
 - 😄 Pronouns:disha
 - ⚡ Fun fact: ...
